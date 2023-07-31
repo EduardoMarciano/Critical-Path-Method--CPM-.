@@ -1,4 +1,4 @@
-# Ordenação Topológica Kahn’s (BFS)
+# Algoritmo de Caminho Crítico(CPM)
 
 ## Descrição do exemplo de utilização:
 ### Análise de um caminho topológico das disciplinas do curso Ciência da Computação UnB-2023/1. 
@@ -9,6 +9,11 @@
 		
  	Python 3.10.6 ou superior.
 	Bibliotecas networkx e matplotlib.
+
+## Intalação Python 3:
+
+	sudo apt install python3
+	sudo apt install python3-pip
 
 ## Instalção das Bibliotecas:
 
